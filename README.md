@@ -7,7 +7,7 @@ A host of links that helped me *understand* different topics in a digestable way
 
 ### 'this' keyword in Javascript
 - [amazing blog post on 'this' and how it works in all cases](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
-- [binding 'this' in react](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
+- [binding 'this' in react (How and Why)](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
 
 
 
