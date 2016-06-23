@@ -12,4 +12,5 @@ A host of links that helped me *understand* different topics in a digestable way
 ### React
 - [React, Webpack and Testing (with Karma)](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/)
 - [Full Webpack Setup](http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack)
+- [React + Redux Guide](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.vwpamnyfj)
 
