@@ -3,6 +3,7 @@ A host of links that helped me *understand* different topics in a digestable way
 
 ### General
 - [JavaScript concepts explained with code](https://github.com/vasanthk/js-bits)
+- [Javascript debouncing for performance](https://davidwalsh.name/javascript-debounce-function)
 
 
 ### 'this' keyword in Javascript
